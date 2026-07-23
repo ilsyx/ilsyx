@@ -7,29 +7,29 @@
     <td align="center" width="30%">
       <img src="https://avatars.githubusercontent.com/ilsyx?s=180" width="120" />
       <br><b>ilsyx</b>
-      <br>🏷️ 全栈・人类・有爱心
+      <br>🏷️ Full-stack · Human · Loving
     </td>
     <td align="left" width="70%">
-      <b>📝 个人档案</b><br>
-      🎂 生日：2000-01-01（大概吧😁）<br>
-      📍 坐标：La République française<br>
-      ❤️ 喜欢：syx<br>
-      💬 签名：<i>“天天开心！”</i>
+      <b>📝 Profile</b><br>
+      🎂 Birthday: 2000-01-01 (roughly 😁)<br>
+      📍 Location: La République française<br>
+      ❤️ Hobbies: syx<br>
+      💬 Signature: <i>"Happy every day!"</i>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💬 我的动态
+## 💬 My Updates
 
-| 日期 | 内容 |
+| Date | Content |
 | :---: | :--- |
-| 🗓️ 2026-07-23 | 今天注册了 5 位纯英文用户名 `ilsyx`，虽然不知道能干啥，但就是高兴！🎉 |
+| 🗓️ 2026-07-23 | Today I registered the 5‑letter pure‑English username `ilsyx`. No idea what to do with it, but I'm happy! 🎉 |
 
 ---
 
-## 📷 我的相册
+## 📷 My Gallery
 
 <p align="center">
   <img src="/home/img/1.webp?text=图片1" style="width:100px;height:100px;object-fit:cover;margin:2px;" />
@@ -59,18 +59,18 @@
 
 ---
 
-## 👥 来访者 & 留言板
+## 👥 Visitors & Guestbook
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ilsyx/count.svg" alt="访客计数" />
-  <br><b>✨ 欢迎来踩，记得留下脚印哟 👣</b>
+  <img src="https://profile-counter.glitch.me/ilsyx/count.svg" alt="Visitor counter" />
+  <br><b>✨ Welcome, drop a footprint 👣</b>
 </p>
 
-> 💌 想给我留言？请前往本仓库的 <a href="https://github.com/ilsyx/ilsyx/issues">Issues</a> 或 <a href="https://github.com/ilsyx/ilsyx/discussions">Discussions</a> 区，我会看哒！
+> 💌 Want to leave a message? Head over to the <a href="https://github.com/ilsyx/ilsyx/issues">Issues</a> or <a href="https://github.com/ilsyx/ilsyx/discussions">Discussions</a> of this repo – I'll read them!
 
 ---
 
-## 🔗 我的其他根据地
+## 🔗 My Other Places
 
 <p align="center">
   <a href="https://ilsyx.github.io"><img src="https://img.shields.io/badge/@LeoLee-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -78,7 +78,7 @@
 
 ---
 
-<!-- 底部波浪 -->
+<!-- Bottom wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
