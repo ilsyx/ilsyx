@@ -13,7 +13,7 @@
       <b>📝 Profile</b><br>
       🎂 Birthday: 2000-01-01 (roughly 😁)<br>
       📍 Location: La République française<br>
-      ❤️ Hobbies: syx<br>
+      ❤️ Love: syx<br>
       💬 Signature: <i>"Happy every day!"</i>
     </td>
   </tr>
