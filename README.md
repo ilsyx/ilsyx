@@ -73,7 +73,7 @@
 ## 🔗 My Other Places
 
 <p align="center">
-  <a href="https://ilsyx.github.io"><img src="https://img.shields.io/badge/@LeoLee-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://s.ixx.nx.kg"><img src="https://img.shields.io/badge/@LeoLee-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
