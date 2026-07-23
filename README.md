@@ -62,7 +62,7 @@
 ## 👥 Visitors & Guestbook
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ilsyx/count.svg" alt="Visitor counter" />
+  <img src="https://unimg.leoi.org/img/1778403354202_MikuLeo64x64.png" alt="Visitor counter" />
   <br><b>✨ Welcome, drop a footprint 👣</b>
 </p>
 
